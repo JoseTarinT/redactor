@@ -1,0 +1,10 @@
+{
+    "job": "redact-from-csv",
+    "baseDataPath": "data",
+    "file": "input_test.csv",
+    "separator_input": ",",
+    "separator_output": ",",
+    "redact_on_cols": [
+        1
+    ]
+}
