@@ -8,4 +8,4 @@
   - `separator_output`: csv separator of output csv file
   - `redact_on_cols`: list of columns to be redacted
 - from the project root directory `redactor`, run
-  `yarn ts-node redact-from-csv/index.ts`
+  `yarn ts-node redact-from-csv/index.ts` command.
